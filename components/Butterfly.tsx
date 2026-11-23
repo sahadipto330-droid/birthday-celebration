@@ -46,13 +46,13 @@ const DEFAULT_NOTES: NoteData[] = [
   {
     "id": "n1",
     "title": "01",
-    "text": "Every butterfly escapes... except me. I've been happily in love with you, Sneha, since day one. 🤍",
+    "text": "Every butterfly escapes... except me. I've been happily in love with you, Sumi, since day one. 🤍",
     "accent": "#D98E7E"
   },
   {
     "id": "n2",
     "title": "02",
-    "text": "Is butterfly ki tarah meri har khushi ka raasta bhi aakhir tum tak hi aakar rukta hai, Sneha. 🫶",
+    "text": "Is butterfly ki tarah meri har khushi ka raasta bhi aakhir tum tak hi aakar rukta hai, Sumi. 🫶",
     "accent": "#C9A15E"
   },
   {
@@ -70,7 +70,7 @@ const DEFAULT_NOTES: NoteData[] = [
   {
     "id": "n5",
     "title": "05",
-    "text": "Happy Birthday to my favorite girl in the world! You own my whole heart forever, Sneha. 🦋✨",
+    "text": "Happy Birthday to my favorite girl in the world! You own my whole heart forever, Sumi. 🦋✨",
     "accent": "#7C8FA6"
   }
 ];
