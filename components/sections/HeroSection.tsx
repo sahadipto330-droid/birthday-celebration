@@ -41,7 +41,7 @@ export const HeroSection = () => {
 
       {/* Top row: quiet date stamp */}
       <div className="hero-mono flex items-center justify-between px-6 pt-4 xs:pt-5 sm:px-14 sm:pt-8 text-[11px] uppercase tracking-[0.25em] text-[#8A8A80] z-20 shrink-0">
-        <span>Happy Birthday · Sumi</span>
+        <span>Happy Birthday · Suu</span>
       </div>
 
       {/* Headline & content — film trail positioned between headline and text on mobile */}
@@ -51,7 +51,7 @@ export const HeroSection = () => {
           <br />
           <span className="font-bold">Birthday</span>
           <br/>
-          <span className="font-bold mt-0.5 sm:mt-1 mb-1 sm:mb-2 text-amber-500">Sumi</span>
+          <span className="font-bold mt-0.5 sm:mt-1 mb-1 sm:mb-2 text-amber-500">Suu</span>
         </h1>
 
         {/* Mobile film trail — rotated 15 degrees clockwise */}
@@ -128,9 +128,7 @@ export const HeroSection = () => {
 
         <div className="mt-1 xs:mt-3 sm:mt-6 shrink-0">
           <div className="h-px w-16 xs:w-20 bg-[#9C7A3F]" />
-          <p className="hero-body mt-2 xs:mt-3 sm:mt-6 max-w-sm sm:max-w-sm text-[13px] xs:text-[14px] sm:text-base leading-[1.55] sm:leading-[1.65] text-[#2c2c26]">
-            To the girl who somehow became my favourite part of every day — happy birthday, my love. ❤️ I hope life gives you the same warmth, peace, laughter and happiness that you unknowingly bring into mine. You deserve a world that is as gentle with you as your heart is with others. And if life ever gets a little difficult, I hope you always remember that somewhere in this world, there’s a boy who will forever be ridiculously proud of you, rooting for you and choosing you. 🥹
-          </p>
+          <p className="hero-body mt-2 xs:mt-3 sm:mt-6 max-w-sm sm:max-w-sm text-[13px] xs:text-[14px] sm:text-base leading-[1.55] sm:leading-[1.65] text-[#2c2c26]">To the girl who somehow became my favourite part of every day — happy birthday, my love. ❤️ I hope life gives you the same warmth, peace, laughter and happiness that you unknowingly bring into mine. You deserve a world that is as gentle with you as your heart is with others. And if life ever gets a little difficult, I hope you always remember that somewhere in this world, there’s a boy who will forever be ridiculously proud of you, rooting for you and choosing you. 🥹</p>
         </div>
       </div>
 

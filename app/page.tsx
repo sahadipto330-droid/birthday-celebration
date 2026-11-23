@@ -11,8 +11,8 @@ import ScrollTriggerDemo from "@/components/ui/scroll-trigger-demo";
 export default function Home() {
   return (
     <ShowtimeCountdown
-      tickerText="HAPPY BIRTHDAY SUMI ·"
-      marqueeSub="forever yours, made with all my love for Sumi ❤️"
+      tickerText="HAPPY BIRTHDAY SUU ·"
+      marqueeSub="forever yours, made with all my love for Suu ❤️"
       showPreviewButton={true}
     >
       <div id="main-scroll-container" className="w-full max-w-[100vw] overflow-x-clip bg-zinc-50 dark:bg-black select-none">
